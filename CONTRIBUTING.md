@@ -52,3 +52,18 @@ Good practices for proposing new features:
 - Describe the current behavior and explain the behavior you expected to see instead and why.
 - Explain why this new feature would prove to be useful.
 - Mention some other projects where this feature already exists if possible.
+
+## Pull Requests
+The process described here has several goals:
+
+Maintain Atom's quality
+Fix problems that are important to users
+Engage the community in working toward the best possible Atom
+Enable a sustainable system for Atom's maintainers to review contributions
+Please follow these steps to have your contribution considered by the maintainers:
+
+Follow all instructions in the template
+Follow the styleguides
+After you submit your pull request, verify that all status checks are passing
+What if the status checks are failing?
+While the prerequisites above must be satisfied prior to having your pull request reviewed, the reviewer(s) may ask you to complete additional design work, tests, or other changes before your pull request can be ultimately accepted.
